@@ -1,5 +1,5 @@
 # GO CORONA
-### *Лендінг для медичної місії.*
+### *Landing for medical mission.*
 
-`Робота для портфоліо №1`
+`Work for portfolio №1`
 #### 06.05.2022
